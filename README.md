@@ -2,14 +2,16 @@
 
 saiba se sua aura é W:
 
-*Instalação:*
+### Como instalar e usar:
 
 ```
+# Instalação
 pip install aura-farming-cli
-
-*Uso:*
+```
 
 ```
+# Uso
 aura-cli
+```
 
 

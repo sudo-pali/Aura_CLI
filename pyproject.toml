@@ -1,7 +1,7 @@
 [tool.poetry]
 
 name = "aura-farming-cli"
-version = "0.1.1"
+version = "0.1.2"
 description = ""
 license = "MIT"
 authors = ["pali <prclash13@protonmail.com>"]
