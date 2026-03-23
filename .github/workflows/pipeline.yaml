@@ -1,0 +1,10 @@
+name: Pipeline
+on: [push]
+
+jobs:
+  runs-on: fedora-latest
+  steps:
+    -name: Instalar o python
+    -uses: actions/checkout@v6
+     whith:
+        python-version: '3.12.8'
