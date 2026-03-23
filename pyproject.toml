@@ -3,14 +3,8 @@
 name = "aura-farming-cli"
 version = "0.1.0"
 description = ""
-authors = [
-    {name = "pali",email = "prclash13@protonmail.com"}
-]
+authors = ["pali <prclash13@protonmail.com>"]
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = [
-]
-
 packages = [{include = "aura_cli", from = "src"}]
 
 [tool.poetry.dependencies]
@@ -20,17 +14,15 @@ python = ">=3.12,<4.0"
 requires = ["poetry-core>=2.0.0,<3.0.0"]
 build-backend = "poetry.core.masonry.api"
 
-[dependency-groups]
-dev = [
-    "pytest (>=9.0.2,<10.0.0)",
-    "pytest-cov (>=7.1.0,<8.0.0)",
-    "blue (>=0.9.1,<0.10.0)",
-    "taskipy (>=1.14.1,<2.0.0)"
-]
+[tool.poetry.group.dev.dependencies]
+pytest = "^9.0.2"
+pytest-cov = "^6.0.0"
+blue = "^0.9.1"
+taskipy = "^1.14.1"
 
 
 [tool.pytest.ini_options]
-pythonpath = "."
+pythonpath = "src"
 
 [tool.poetry.scripts]
 aura-cli = "aura_cli.main:main"
