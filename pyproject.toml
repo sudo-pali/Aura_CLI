@@ -3,6 +3,7 @@
 name = "aura-farming-cli"
 version = "0.1.0"
 description = ""
+license = "MIT"
 authors = ["pali <prclash13@protonmail.com>"]
 readme = "README.md"
 packages = [{include = "aura_cli", from = "src"}]
