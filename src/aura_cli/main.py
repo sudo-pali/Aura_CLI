@@ -42,12 +42,6 @@ def main():
             print(f'{aura_mais} {aura:+}', end='\r')
 
 
-        elif user == "aura" or user == "67":
-
-            print("Aura +67")
-
-            break
-
 
 
         else:
