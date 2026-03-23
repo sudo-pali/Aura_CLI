@@ -8,6 +8,10 @@ Saiba se sua aura é W:
 
 - Boa Sorte :)
 
+(Nota: novo Easter Egg adicionado: aura secreta)
+
+- Dica: O nome da aura secreta se chama "Aura +67" boa sorte para acharem
+
 ### Como instalar e usar:
 
 ```

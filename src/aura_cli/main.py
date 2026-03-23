@@ -15,6 +15,14 @@ def main():
 
 
 
+    if user == "aura" or user == "67":
+
+        print("Aura +67")
+
+        return
+
+
+
     if user == "":
 
         contagem = 1
@@ -26,11 +34,21 @@ def main():
 
 
 
+
     while True:
 
         if user == "":
     
             print(f'{aura_mais} {aura:+}', end='\r')
+
+
+        elif user == "aura" or user == "67":
+
+            print("Aura +67")
+
+            break
+
+
 
         else:
         
@@ -56,6 +74,9 @@ def main():
 
 
         print(f'{aura_menos}')
+
+
+    
 
 
 
