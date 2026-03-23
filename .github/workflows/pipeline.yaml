@@ -6,5 +6,5 @@ jobs:
   steps:
     -name: Instalar o python
     -uses: actions/checkout@v6
-     whith:
+    -whith:
         python-version: '3.12.8'
