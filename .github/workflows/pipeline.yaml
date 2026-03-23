@@ -2,11 +2,12 @@ name: Pipeline
 on: [push]
 
 jobs:
-    runs-on: fedora-latest
+  aura-test:
+    runs-on: ubuntu-latest
     steps:
-    -name: Instalar o python
+    - name: Instalar o python
      uses: actions/checkout@v6
-    -whith:
+    - with:
         python-version: '3.12.8'
 
 
