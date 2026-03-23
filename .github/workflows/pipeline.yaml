@@ -15,8 +15,8 @@ jobs:
 
     - name: Instalar poetry e rodar testes
       run: |
-      pip install poetry
-      poetry install
-      poetry run pytest
+        pip install poetry
+        poetry install
+        poetry run pytest
 
 
