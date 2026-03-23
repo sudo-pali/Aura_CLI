@@ -27,3 +27,11 @@ dev = [
     "blue (>=0.9.1,<0.10.0)",
     "taskipy (>=1.14.1,<2.0.0)"
 ]
+
+
+[tool.pytest.ini_options]
+pythonpath = "."
+
+[tool.poetry.scripts]
+aura-cli = "aura_cli.main:main"
+
