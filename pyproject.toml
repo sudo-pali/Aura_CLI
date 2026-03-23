@@ -1,5 +1,6 @@
-[project]
-name = "aura-cli"
+[tool.poetry]
+
+name = "aura-farming-cli"
 version = "0.1.0"
 description = ""
 authors = [
@@ -10,7 +11,6 @@ requires-python = ">=3.12"
 dependencies = [
 ]
 
-[tool.poetry]
 packages = [{include = "aura_cli", from = "src"}]
 
 [tool.poetry.dependencies]
