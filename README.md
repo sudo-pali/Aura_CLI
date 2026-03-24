@@ -14,6 +14,8 @@ Saiba se sua aura é W:
 <br>
 =================================================================
 <br>
+<br>
+
 - Novo talvez Easter Egg adicionado:
 
 `Digite "41" e tenha uma surpresa brutalmente nostálgica`
