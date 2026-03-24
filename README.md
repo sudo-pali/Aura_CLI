@@ -10,9 +10,11 @@ Saiba se sua aura é W:
 - Nota: novo Easter Egg adicionado: aura secreta
 
 `Dica: O nome da aura secreta se chama "Aura +67" boa sorte para acharem`
+
 <br>
 =================================================================
 <br>
+
 - Novo talvez Easter Egg adicionado:
 
 `Digite "41" e tenha uma surpresa brutalmente nostálgica`
