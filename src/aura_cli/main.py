@@ -22,6 +22,15 @@ def main():
         return
 
 
+    elif user == "41":
+
+        print("""41 o número mais malvado de todos
+        CONSPIRAÇÃO!!!
+              """)
+
+        return
+
+
 
     if user == "":
 
