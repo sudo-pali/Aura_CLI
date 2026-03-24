@@ -6,6 +6,11 @@ Saiba se sua aura é W:
 
 `Duvido acharem o "Easter Egg" da Aura negativa (Dica: tem haver com o botão "Enter", ou a ausência dele hehe)`
 
+<br>
+=================================================================
+<br>
+<br>
+
 
 - Nota: novo Easter Egg adicionado: aura secreta
 
